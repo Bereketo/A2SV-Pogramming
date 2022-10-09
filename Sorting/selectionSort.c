@@ -2,8 +2,8 @@
 #include <stdlib.h>
 /* 
  * selection sort algorithm
- * finds the position of the minimum number and swaps it to the current index
  * 
+ *  
  */
 void selectionSort(int *arr, int size);
 int main(void)
