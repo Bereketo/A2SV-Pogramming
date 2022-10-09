@@ -2,8 +2,7 @@
 #include <stdlib.h>
 /* 
  * selection sort algorithm
- * 
- *  
+ *   
  */
 void selectionSort(int *arr, int size);
 int main(void)
